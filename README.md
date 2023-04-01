@@ -1,4 +1,5 @@
-![Lukasz Buda (1)](https://user-images.githubusercontent.com/91045422/229298993-d310db63-253e-4c80-9a4c-a77ab21e9a5f.gif)
+
+![Anime Aesthetic GIF - Anime Aesthetic Sky - Discover   Share GIFs](https://user-images.githubusercontent.com/91045422/229299200-c35c5258-f96e-44a1-9afb-f0869fa828ea.gif)
 <h1 align="center">Hi 👋, I'm Le ( call me Dilys )</h1>
 <h3 align="center">A student who loves to discover new knowledge</h3>
 
