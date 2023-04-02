@@ -2,7 +2,9 @@
 ![Anime Aesthetic GIF - Anime Aesthetic Sky - Discover   Share GIFs](https://user-images.githubusercontent.com/91045422/229299200-c35c5258-f96e-44a1-9afb-f0869fa828ea.gif)
 <h1 align="center">Hi 👋, I'm Le ( call me Dilys )</h1>
 <h3 align="center">A student who loves to discover new knowledge</h3>
-
+<h3 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&width=500&lines=A+student+is+studying+at+DUT+from+VietNam;Always+learning+new+things;Front-end+web+developer;I+love+exploring+new+knowledge+and+territories;You+can+call+me+by+Dilys" alt="Typing SVG" /></a>
+</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilysnguyen&label=Profile%20views&color=0e75b6&style=flat" alt="dilysnguyen" /> </p>
 
 - 🔭 I’m currently working on **DUT (The University of Science and Technology).**
