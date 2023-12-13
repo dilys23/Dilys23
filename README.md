@@ -11,7 +11,8 @@
 
 - 🌱 I’m currently learning **Information Technology**
 
-- 💬 Ask me about **Canva, Figma, C#, C++, Java**
+- 💬 Ask me about **Canva, Figma, C#, C++, Java, ReactJS**
+-    I want to become Front-end Developer 
 
 - 📫 How to reach me **lenguyen.231203@gmail.com**
 
