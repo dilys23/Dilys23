@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Information Technology**
 
-- 💬 Ask me about **Canva, Figma, C#, C++, Java, ReactJS**
+- 💬 Ask me about **Canva, Figma, HTML, CSS, Javascript, ReactJS, NodeJs, TailwindCSS**
 
 - 📫 How to reach me **lenguyen.231203@gmail.com**
 
