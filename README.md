@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Canva, Figma, HTML, CSS, Javascript, ReactJS, NodeJs, TailwindCSS**
 
-- 📫 How to reach me **lenguyen.231203@gmail.com**
+- 📫 How to reach me **dilystech23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
