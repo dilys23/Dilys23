@@ -28,7 +28,7 @@
 
 ### 🤝 Connect with me:
 <p align="left">
-  <a href="https://fb.com/lê nguyễn" target="blank">
+  <a href="https://www.facebook.com/dilysnguyen23/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/l%C3%AA-nguy%E1%BB%85n-8346a9225/" target="blank">
